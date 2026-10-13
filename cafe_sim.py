@@ -168,7 +168,8 @@ def stage1_check():
             check("λ x2", LAM_MULT=2.0),
             check("MAX_QUEUE = 20", MAX_QUEUE=20),
             check("лише еспресо/американо", PROBS=np.array([.5, .5, 0, 0, 0])),
-            check("λ x0.3 (спокійний день)", LAM_MULT=0.3)]
+            check("λ x0.3 (спокійний день)", LAM_MULT=0.3),
+            check("λ x0.15 (дуже спокійний день)", LAM_MULT=0.15)]
     t = pd.DataFrame(rows).round(3)
     print(t.to_string()); t.to_csv("figures/stage1_adequacy.csv", index=False)
 
