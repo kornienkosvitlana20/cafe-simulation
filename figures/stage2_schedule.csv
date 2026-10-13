@@ -1,0 +1,6 @@
+period,best_c,profit_by_c,loss_by_c
+08-10,2,"[np.float64(1667.0), np.float64(2529.0), np.float64(2517.0), np.float64(2482.0), np.float64(2389.0)]","[np.float64(0.175), np.float64(0.005), np.float64(0.001), np.float64(0.0), np.float64(0.0)]"
+10-12,2,"[np.float64(1755.0), np.float64(1951.0), np.float64(1770.0), np.float64(1582.0), np.float64(1510.0)]","[np.float64(0.136), np.float64(0.0), np.float64(0.0), np.float64(0.0), np.float64(0.0)]"
+12-15,5,"[np.float64(2662.0), np.float64(5293.0), np.float64(7850.0), np.float64(9859.0), np.float64(10891.0)]","[np.float64(0.768), np.float64(0.542), np.float64(0.344), np.float64(0.172), np.float64(0.11)]"
+15-18,3,"[np.float64(2707.0), np.float64(4501.0), np.float64(4504.0), np.float64(4213.0), np.float64(4021.0)]","[np.float64(0.37), np.float64(0.033), np.float64(0.002), np.float64(0.001), np.float64(0.0)]"
+18-20,3,"[np.float64(1770.0), np.float64(3207.0), np.float64(3536.0), np.float64(3512.0), np.float64(3466.0)]","[np.float64(0.502), np.float64(0.074), np.float64(0.002), np.float64(0.0), np.float64(0.001)]"
